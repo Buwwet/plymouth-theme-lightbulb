@@ -5,5 +5,5 @@ Comment=created By Buwwet
 ModuleName=script
 
 [script]
-ImageDir=/usr/share/plymouth/themes/lightbulb
-ScriptFile=/usr/share/plymouth/themes/lightbulb/lightbulb.script
+ImageDir=/usr/share/plymouth/themes/plymouth-theme-lightbulb/lightbulb
+ScriptFile=/usr/share/plymouth/themes/plymouth-theme-lightbulb/lightbulb.script
